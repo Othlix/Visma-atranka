@@ -1,4 +1,4 @@
-power or cmd terminal:
+powershell or cmd terminal:
 
 mkdir VismaApp
 cd VismaApp
